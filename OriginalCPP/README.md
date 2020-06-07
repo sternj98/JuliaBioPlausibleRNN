@@ -1,3 +1,5 @@
+This folder is from Thomas Miconi: https://github.com/ThomasMiconi/BiologicallyPlausibleLearningRNN
+
 This is the source code for the paper ["Biologically plausible learning in recurrent neural networks reproduces neural dynamics observed during cognitive tasks"](https://elifesciences.org/articles/20899) (T. Miconi, eLife 2017;6:e20899, 2017).
 
 This code implements a simple, biologically plausible plasticity rule for chaotic-regime recurrent neural networks (RNNs), that can learn nontrivial tasks based solely on delayed, sparse rewards.
